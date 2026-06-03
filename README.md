@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thant Zin Oo</h1>
-<h3 align="center">Junior Application Support | Full-stack Web Development Learner | Flutter & Data Enthusiast</h3>
+<h3 align="center">Aspring Full-stack Web Development | Flutter Developer | Data Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/thantzinoo-dev">
