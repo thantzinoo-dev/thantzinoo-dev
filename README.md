@@ -68,51 +68,21 @@ I enjoy learning by building real projects, fixing issues, and improving step by
 
 ### 📌 Featured Projects
 
-#### 🏨 Hotel Administration System
-A school project focused on hotel management features such as rooms, guests, bookings, payments, reports, and admin workflows.
-
-Tech stack: `Next.js`, `TypeScript`, `Tailwind CSS`, `shadcn/ui`, `Zustand`
-
-#### 📰 Flutter News App
-A Flutter news application using clean architecture, Retrofit, Floor database, and JSON serialization.
-
-Tech stack: `Flutter`, `Dart`, `Clean Architecture`
-
-#### 🛒 React POS App
-A point-of-sale application built with React for practicing frontend business workflows.
-
-Tech stack: `React`, `JavaScript`
-
-#### 🧩 JavaScript Practice Projects
-Small projects for improving DOM, API, UI logic, and frontend fundamentals.
-
-Projects: `JS-Task-Manager`, `JS-Invoice-App`, `JS-AI-Image-Generator`
-
-#### ⚙️ Express Basic
-A backend practice project for learning Node.js, Express.js, routing, and API fundamentals.
-
-Tech stack: `Node.js`, `Express.js`, `JavaScript`
-
-#### 🐍 Python Basic Class
-A Python learning project for strengthening programming and data-analysis fundamentals.
-
-Tech stack: `Python`
+| Project | Type | Tech Stack | Notes |
+| --- | --- | --- | --- |
+| [**Health-Mate**](https://github.com/thantzinoo-dev/Health-Mate) | Mobile health app | `Flutter`, `Dart`, `BLoC`, `Firebase`, `Firestore`, `SQLite` | Feature-rich Flutter project with authentication, local persistence, media, health features, and Firebase services. |
+| [**ngavitt**](https://github.com/thantzinoo-dev/ngavitt) | COVID tracker app | `Flutter`, `Dart`, `Provider`, `HTTP`, `Charts` | Earlier Flutter project focused on API usage, state management, data display, and UI practice. |
+| **Hotel Administration System** | School project / admin system | `Next.js`, `TypeScript`, `Prisma`, `PostgreSQL`, `Tailwind CSS`, `Zustand` | Private academic project for rooms, guests, bookings, payments, reports, and admin workflows. |
+| [**React-POS-App**](https://github.com/thantzinoo-dev/React-POS-App) | POS web app | `React`, `Vite`, `JavaScript`, `Tailwind CSS`, `Zustand`, `SWR` | Frontend business workflow project for sales, UI state, forms, printing, and POS interaction practice. |
+| **fbhacker** | Legacy security learning repo | `Security learning`, `Ethical use only` | Older learning repository kept as a record. I focus on ethical learning, security awareness, and responsible development only. |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Snapshot
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thantzinoo-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+I build and practice across **Flutter mobile apps**, **React / Next.js web apps**, **JavaScript projects**, **backend fundamentals**, and **data-analysis learning**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thantzinoo-dev&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thantzinoo-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+Instead of using third-party GitHub stats images, this profile keeps the stats section text-based so the README does not show broken image placeholders when external services are down or rate-limited.
 
 ---
 
