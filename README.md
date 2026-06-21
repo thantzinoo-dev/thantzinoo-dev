@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am currently working as a **Junior Application Support** in the IT Department at **Alliance Microfinance for Myanmar**.
+I am currently working as a **Application Support Specialist** in the IT Department at **Alliance Microfinance for Myanmar**.
 
 My career direction is to grow from application support into a strong **Software Developer** and **Data Analyst**.
 
