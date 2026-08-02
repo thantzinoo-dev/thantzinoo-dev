@@ -1,84 +1,170 @@
 <h1 align="center">Hi 👋, I'm Thant Zin Oo</h1>
-<h3 align="center">Aspiring Full-stack Web Developer | Flutter Developer | Data Enthusiast</h3>
+<h3 align="center">Software Developer</h3>
+<p align="center"><strong>Full-stack Web · Flutter Mobile · Data Analytics · Workflow Automation</strong></p>
 
 <p align="center">
-  <a href="https://github.com/thantzinoo-dev">
-    <img src="https://komarev.com/ghpvc/?username=thantzinoo-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  I build practical software, analytics, and automation solutions for real business workflows.
+</p>
+
+<p align="center">
+  <a href="https://thantzinoo-dev-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-70a5fd?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="mailto:csthantzinoo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-bf91f3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/thantzinoo-dev">
+    <img src="https://img.shields.io/badge/GitHub-thantzinoo--dev-1a1b27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thantzinoo-dev&label=Profile%20Views&color=70a5fd&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Mandalay%2C%20Myanmar-38bdae?style=flat&logo=googlemaps&logoColor=white" alt="Mandalay, Myanmar" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am currently working as an **Application Support Specialist** in the IT Department at **Alliance Microfinance for Myanmar**.
+I am a **Software Developer** and a **Master’s student in Computer Science**, currently working as an **Application Specialist** within an IT department.
 
-My career direction is to grow from application support into a strong **Software Developer** and **Data Analyst**.
+My work and projects span **full-stack web development, Flutter mobile development, backend APIs, data analytics, workflow automation, and production business systems**. I have hands-on experience supporting production users, investigating issues, reproducing system behaviour, collecting evidence, assisting UAT, coordinating with vendors, and following technical issues through to resolution.
 
-I am focusing on:
+I work across **Next.js, React, TypeScript, Flutter, REST APIs, SQL and Python analysis, Excel reporting, and n8n automation**. I am currently strengthening my backend engineering path with **Java Spring Boot and PostgreSQL**.
 
-- **Full-stack Web Development** with `Next.js`, `Java Spring Boot`, and `PostgreSQL`
-- **Mobile Development** with `Flutter` and `Dart`
-- **Backend fundamentals** with `Node.js`, `Express.js`, REST API, and database design
-- **Data Analysis** with `SQL`, `Excel`, `Python`, and `Tableau`
-- **Enterprise Application Support**, troubleshooting, issue follow-up, and vendor coordination
+### Career Direction
 
-I enjoy learning by building real projects, fixing issues, and improving step by step.
+I am building toward opportunities in:
 
----
-
-### 🎯 Current Focus
-
-- Improving my **Next.js + TypeScript** project structure
-- Learning **Java Spring Boot** for backend development
-- Practicing **Node.js + Express.js** backend basics
-- Strengthening **SQL, Python, Excel, and Tableau** for data work
-- Building projects that connect frontend, backend, database, and real business workflows
+- **Software Development**
+- **Data Analytics and Data Engineering**
+- **Workflow Automation**
+- **Business-focused application development**
 
 ---
 
-### 🚀 Tech Stack
+## 🧩 Core Capabilities
 
-#### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-#### Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
-#### Backend & Database
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Learning-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-#### Data
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+| Capability | Experience | What I Work On |
+| --- | --- | --- |
+| **Full-stack Web Applications** | Project Experience | Responsive applications, dashboards, admin panels, POS interfaces, authentication, APIs, and business workflows using Next.js and React. |
+| **Flutter Mobile Applications** | Project Experience | Cross-platform interfaces, API integration, local persistence, state management, and business-focused mobile flows. |
+| **Backend APIs & Integrations** | Project Experience | REST APIs, authentication flows, business logic, Firebase, Supabase, Node.js, Express.js, and database integration. |
+| **Data Analytics & Reporting** | Practical Experience | Data cleaning, SQL querying, Python preparation, Excel reporting, Tableau dashboards, and business-data exploration. |
+| **Workflow Automation** | Practical Experience | Scheduled n8n workflows, filtering, duplicate prevention, REST API automation, and structured Telegram notifications. |
+| **Production Applications & UAT** | Professional Experience | Issue investigation, reproduction, evidence collection, UAT support, vendor coordination, and production follow-through. |
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Skills & Technologies
 
-| Project | Type | Tech Stack | Notes |
+### Full-stack Web
+
+`Next.js` · `React` · `TypeScript` · `JavaScript` · `Tailwind CSS` · `Responsive UI` · `Dashboard Development` · `Node.js` · `Express.js` · `REST API` · `Authentication` · `Firebase` · `Supabase` · `Database Integration` · `PostgreSQL`
+
+### Flutter Mobile
+
+`Flutter` · `Dart` · `REST API Integration` · `State Management` · `Local Storage` · `Mobile UI` · `Cross-platform Development`
+
+### Data Analytics
+
+`SQL` · `MS SQL Server` · `PostgreSQL` · `Python` · `Excel` · `Tableau` · `Data Cleaning` · `Reporting` · `Dashboard Development`
+
+### Automation & Developer Tooling
+
+`n8n` · `REST API Automation` · `Scheduled Workflows` · `Data Filtering` · `Duplicate Prevention` · `Telegram Notifications` · `Git` · `GitHub` · `Postman` · `Docker` · `Linux` · `Vercel`
+
+### Production & Business Systems
+
+`Application Specialist` · `Issue Investigation` · `Evidence Collection` · `UAT Support` · `Vendor Coordination` · `Business Workflow Analysis` · `Fintech Applications` · `Core Banking Exposure` · `Lending Systems Exposure` · `CRM Exposure`
+
+### Currently Strengthening
+
+`Java` · `Spring Boot` · `PostgreSQL Backend Engineering` · `Software Engineering` · `Data Engineering`
+
+---
+
+## 💼 Professional Experience
+
+### Application Specialist
+**IT Department · Fintech & Business Applications** · *Current Role*
+
+Supporting production business applications through user-issue investigation, reproduction, evidence collection, UAT assistance, vendor coordination, and technical follow-through across real operational workflows.
+
+`Issue Investigation` · `UAT` · `Vendor Coordination` · `Fintech Systems` · `Business Workflows`
+
+### Independent Software Projects
+**Web, Mobile, API, Data & Automation** · *Ongoing*
+
+Building practical projects across Flutter, React, Next.js, backend APIs, analytics, reporting, and workflow automation.
+
+`Flutter` · `React` · `Next.js` · `Node.js` · `SQL` · `n8n`
+
+### Product Contributor — NOVA POS Project
+**Cross-platform Business Application** · *Current Contribution*
+
+Contributing to a cross-platform POS project for mobile, tablet, and desktop business workflows, including sales, inventory, and operational application flows.
+
+`Flutter` · `POS` · `Cross-platform` · `Inventory` · `Sales`
+
+### Frontend Developer Intern
+**MMS IT** · *2025*
+
+Built web interfaces and responsive layouts, and contributed to client-facing application pages in a team environment.
+
+`HTML` · `CSS` · `JavaScript` · `React` · `Responsive UI`
+
+---
+
+## 🚀 Portfolio Case Studies
+
+| Project | Category & Status | Technologies | Summary |
 | --- | --- | --- | --- |
-| [**Health-Mate**](https://github.com/thantzinoo-dev/Health-Mate) | Mobile health app | `Flutter`, `Dart`, `BLoC`, `Firebase`, `Firestore`, `SQLite` | Feature-rich Flutter project with authentication, local persistence, media, health features, and Firebase services. |
-| [**ngavitt**](https://github.com/thantzinoo-dev/ngavitt) | COVID tracker app | `Flutter`, `Dart`, `Provider`, `HTTP`, `Charts` | Earlier Flutter project focused on API usage, state management, data display, and UI practice. |
-| **Hotel Administration System** | School project / admin system | `Next.js`, `TypeScript`, `Prisma`, `PostgreSQL`, `Tailwind CSS`, `Zustand` | Private academic project for rooms, guests, bookings, payments, reports, and admin workflows. |
-| [**React-POS-App**](https://github.com/thantzinoo-dev/React-POS-App) | POS web app | `React`, `Vite`, `JavaScript`, `Tailwind CSS`, `Zustand`, `SWR` | Frontend business workflow project for sales, UI state, forms, printing, and POS interaction practice. |
-| **fbhacker** | Legacy security learning repo | `Security learning`, `Ethical use only` | Older learning repository kept as a record. I focus on ethical learning, security awareness, and responsible development only. |
+| [**Health-Mate**](https://github.com/thantzinoo-dev/Health-Mate) | Mobile Application · Public Repository | `Flutter`, `Dart`, `REST API`, `Firebase` | Health-assistance mobile application with authentication, API integrations, local application flows, and state-driven interfaces. |
+| **Hotel Administration System** | Web Application · Private Project | `React`, `JavaScript`, `Admin Panel`, `Business App` | Business administration application designed around structured hotel-operation workflows and responsive operational interfaces. |
+| [**React POS Application**](https://github.com/thantzinoo-dev/React-POS-App) | Web Application · Public Repository | `React`, `JavaScript`, `POS`, `Retail` | Responsive point-of-sale interface for product selection, cart interactions, forms, and retail sales workflows. |
+| **Business Analytics Dashboard** | Data Analytics · Sanitized Case Study | `SQL`, `Python`, `Excel`, `Tableau`, `Synthetic Data` | Reproducible analysis flow from raw synthetic business data through cleaning, querying, reporting, and dashboard design. |
+| **HR Dashboard** | Data Analytics · Sanitized Case Study | `SQL`, `Excel`, `Data Cleaning`, `Dashboard Development` | Structured HR queries and an Excel reporting dashboard for clearer practical analysis. |
+| **Helpdesk Notification Automation** | Workflow Automation · Sanitized Case Study | `n8n`, `JavaScript`, `Scheduled Workflow`, `Filtering`, `Deduplication`, `Telegram` | Scheduled ticket checks, relevant-ticket filtering, duplicate-alert prevention, and structured Telegram notifications. |
+| **Mobile Analytics Dashboard Prototype** | Data Analytics · Sanitized Case Study | `Flutter`, `Dashboard UI`, `JSON`, `Data Filtering`, `Synthetic Data` | Responsive mobile dashboard prototype presenting synthetic business metrics through role-oriented filters. |
+
+<p align="center">
+  <a href="https://thantzinoo-dev-portfolio.vercel.app/"><strong>View the full portfolio and detailed case studies →</strong></a>
+</p>
 
 ---
 
-### 📈 GitHub Analytics
+## 🧪 Learning & Earlier Projects
+
+| Project | Technologies | Focus |
+| --- | --- | --- |
+| [**Ngavitt**](https://github.com/thantzinoo-dev/ngavitt) | `Flutter`, `Dart`, `API Integration` | Earlier COVID-19 tracker mobile application focused on API-connected data. |
+| [**Flutter News**](https://github.com/thantzinoo-dev/Flutter-News) | `Flutter`, `Dart`, `News API` | News-browsing mobile application using a public API and mobile content layouts. |
+| [**Anime App**](https://github.com/thantzinoo-dev/AnimeApp) | `Flutter`, `Dart`, `API Integration` | Mobile content-browsing project focused on API integration. |
+| [**JavaScript Invoice App**](https://github.com/thantzinoo-dev/JS-Invoice-App) | `JavaScript`, `Invoice`, `Business Tool` | Basic invoice-management and business-tool interactions. |
+| [**JavaScript AI Image Generator**](https://github.com/thantzinoo-dev/JS-AI-Image-Generator) | `JavaScript`, `API Integration`, `Image Generation` | API-connected image-generation interface learning project. |
+| [**Health-Mate Backend API**](https://github.com/thantzinoo-dev/healthmate_backend_api) | `Backend API`, `REST API`, `Database Integration` | Backend learning project exploring API structure for a mobile application. |
+
+---
+
+## 🎓 Education
+
+### Master’s in Computer Science — In Progress
+
+Focus areas:
+
+`Software Engineering` · `Data Engineering` · `Data Analytics`
+
+### BSc (Hons) in Computer Science — Completed
+
+Focus areas:
+
+`Computer Science` · `Software Development`
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
   <img width="700" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Thant Zin Oo GitHub profile details" />
@@ -106,19 +192,15 @@ I enjoy learning by building real projects, fixing issues, and improving step by
 
 ---
 
-### 🌱 Learning Roadmap
+## ⚽ Beyond Code
 
-- `Next.js App Router` for full-stack frontend development
-- `Java Spring Boot` for enterprise backend development
-- `Node.js` and `Express.js` for backend fundamentals
-- `PostgreSQL` and `MS SQL Server` for database work
-- `Python`, `SQL`, `Excel`, and `Tableau` for data analysis
-- System design basics and real-world application support workflows
+Outside work and study, I enjoy **football** and support **Manchester United**. I also enjoy quiet independent time and occasionally watch K-dramas, especially fantasy and student-action series.
 
 ---
 
-### 📫 Connect with Me
+## 📫 Contact
 
-<p align="left">
-  <a href="https://github.com/thantzinoo-dev">GitHub</a>
-</p>
+- **Email:** [csthantzinoo@gmail.com](mailto:csthantzinoo@gmail.com)
+- **Portfolio:** [thantzinoo-dev-portfolio.vercel.app](https://thantzinoo-dev-portfolio.vercel.app/)
+- **GitHub:** [github.com/thantzinoo-dev](https://github.com/thantzinoo-dev)
+- **Location:** Mandalay, Myanmar
