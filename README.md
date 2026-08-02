@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://thantzinoo-dev-portfolio.vercel.app/">
-    <img width="560" src="https://img.shields.io/badge/%F0%9F%9A%80%20%20VIEW%20MY%20PORTFOLIO%20%20%E2%86%92-thantzinoo--dev--portfolio.vercel.app-70a5fd?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="View my portfolio" />
+    <img width="560" src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO%20%20%E2%86%92-thantzinoo--dev--portfolio.vercel.app-70a5fd?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="View my portfolio" />
   </a>
 </p>
 
 <p align="center">
-  <sub>👆 All case studies, project details, and full experience live here</sub>
+  <sub>All case studies, project details, and full experience live here</sub>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="./assets/icons/profile.svg" width="22" height="22" alt="" /> About Me
 
 **Software Developer** · **Application Specialist** · **MSc Computer Science (in progress)**
 
@@ -31,10 +31,10 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 
 ---
 
-## 🧩 Core Capabilities
+## <img src="./assets/icons/capabilities.svg" width="22" height="22" alt="" /> Core Capabilities
 
 <details>
-<summary><strong>🧩 What I Work On</strong> — 7 capability areas</summary>
+<summary><img src="./assets/icons/capabilities.svg" width="17" height="17" alt="" /> <strong>What I Work On</strong> — 7 capability areas</summary>
 
 <br />
 
@@ -52,7 +52,7 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 
 ---
 
-## 🛠️ Skills & Technologies
+## <img src="./assets/icons/code.svg" width="22" height="22" alt="" /> Skills & Technologies
 
 **Full-stack Web**
 
@@ -120,10 +120,10 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 
 ---
 
-## 🚀 Projects
+## <img src="./assets/icons/projects.svg" width="22" height="22" alt="" /> Projects
 
 <details>
-<summary><strong>🚀 Portfolio Case Studies</strong> — 7 projects across web, mobile, analytics & automation</summary>
+<summary><img src="./assets/icons/projects.svg" width="17" height="17" alt="" /> <strong>Portfolio Case Studies</strong> — 7 projects across web, mobile, analytics & automation</summary>
 
 <br />
 
@@ -140,7 +140,7 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 </details>
 
 <details>
-<summary><strong>🧪 Learning & Earlier Projects</strong> — 6 earlier repositories</summary>
+<summary><img src="./assets/icons/code.svg" width="17" height="17" alt="" /> <strong>Learning & Earlier Projects</strong> — 6 earlier repositories</summary>
 
 <br />
 
@@ -161,12 +161,12 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 
 ---
 
-## 🎓 Education
+## <img src="./assets/icons/education.svg" width="22" height="22" alt="" /> Education
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎓 Master’s in Computer Science</h3>
+      <h3><img src="./assets/icons/education.svg" width="18" height="18" alt="" /> Master’s in Computer Science</h3>
       <img src="https://img.shields.io/badge/Status-In_Progress-70a5fd?style=flat-square" alt="In progress" />
       <br /><br />
       <img src="https://img.shields.io/badge/Software_Engineering-1a1b27?style=flat-square" alt="Software Engineering" />
@@ -174,7 +174,7 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
       <img src="https://img.shields.io/badge/Data_Analytics-1a1b27?style=flat-square" alt="Data Analytics" />
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 BSc (Hons) in Computer Science</h3>
+      <h3><img src="./assets/icons/education.svg" width="18" height="18" alt="" /> BSc (Hons) in Computer Science</h3>
       <img src="https://img.shields.io/badge/Status-Completed-38bdae?style=flat-square" alt="Completed" />
       <br /><br />
       <img src="https://img.shields.io/badge/Computer_Science-1a1b27?style=flat-square" alt="Computer Science" />
@@ -185,7 +185,7 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 
 ---
 
-## 📈 GitHub Analytics
+## <img src="./assets/icons/analytics.svg" width="22" height="22" alt="" /> GitHub Analytics
 
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Repositories-40-70a5fd?style=for-the-badge&logo=github&logoColor=white" alt="40 total repositories" />
@@ -216,7 +216,7 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 
 ---
 
-## ⚽ Beyond Code
+## <img src="./assets/icons/compass.svg" width="22" height="22" alt="" /> Beyond Code
 
 <p align="center">
   <img src="https://img.shields.io/badge/Manchester_United-DA291C?style=for-the-badge&logo=premierleague&logoColor=white" alt="Manchester United" />
@@ -229,7 +229,7 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
 
 ---
 
-## 📫 Contact
+## <img src="./assets/icons/contact.svg" width="22" height="22" alt="" /> Contact
 
 <p align="center">
   <a href="mailto:csthantzinoo@gmail.com">
