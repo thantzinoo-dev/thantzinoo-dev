@@ -81,17 +81,17 @@ I enjoy learning by building real projects, fixing issues, and improving step by
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thantzinoo-dev&theme=tokyonight&animation=load&duration=2.5" alt="Thant Zin Oo GitHub profile details" />
+  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Thant Zin Oo GitHub profile details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thantzinoo-dev&theme=tokyonight&animation=stagger&duration=2.5" alt="Repositories per language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thantzinoo-dev&theme=tokyonight&animation=stagger&duration=2.5" alt="Most used languages in commits" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages in commits" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thantzinoo-dev&theme=tokyonight&animation=load&duration=2.5" alt="GitHub statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thantzinoo-dev&theme=tokyonight&utcOffset=6.5&animation=load&duration=2.5" alt="Productive coding time" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive coding time" />
 </p>
 
 <p align="center">
@@ -102,7 +102,7 @@ I enjoy learning by building real projects, fixing issues, and improving step by
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thantzinoo-dev&theme=tokyo-night&hide_border=true&area=true&radius=12&days=31&custom_title=Thant%20Zin%20Oo%27s%2031-Day%20Contribution%20Graph" alt="31-day GitHub activity graph" />
 </p>
 
-<p align="center"><sub>Public cards show public GitHub activity. Private-repository statistics require a self-hosted service or a token-backed GitHub Actions workflow.</sub></p>
+<p align="center"><sub>The five summary cards are generated as local SVG files by GitHub Actions and refreshed daily. Public statistics are shown unless a private-access token is configured.</sub></p>
 
 ---
 
