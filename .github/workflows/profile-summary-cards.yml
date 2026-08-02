@@ -33,4 +33,32 @@ jobs:
           ANIMATION: load
           DURATION: 2.5
           NAME: Thant Zin Oo
-          AUTO_PUSH: true
+          AUTO_PUSH: false
+
+      - name: Make analytics typography compact
+        shell: python
+        run: |
+          from pathlib import Path
+
+          output_dir = Path("profile-summary-card-output/tokyonight")
+          replacements = {
+              "font-size: 22px": "font-size: 18px",
+              "font-size: 14px": "font-size: 12px",
+              "font-size: 10px": "font-size: 8.5px",
+              'font-size="10"': 'font-size="8.5"',
+          }
+
+          for svg_file in output_dir.glob("*.svg"):
+              content = svg_file.read_text(encoding="utf-8")
+              for old, new in replacements.items():
+                  content = content.replace(old, new)
+              svg_file.write_text(content, encoding="utf-8")
+              print(f"Compacted typography in {svg_file}")
+
+      - name: Commit refreshed analytics cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile-summary-card-output/tokyonight/*.svg
+          git commit -m "chore: refresh compact profile analytics" || exit 0
+          git push
