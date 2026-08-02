@@ -1,0 +1,36 @@
+name: Update GitHub Profile Analytics
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - ".github/workflows/profile-summary-cards.yml"
+  schedule:
+    - cron: "20 18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-profile-cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate Tokyo Night analytics cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: thantzinoo-dev
+          BRANCH_NAME: master
+          UTC_OFFSET: 6.5
+          THEME: tokyonight
+          ANIMATION: load
+          DURATION: 2.5
+          NAME: Thant Zin Oo
+          AUTO_PUSH: true
