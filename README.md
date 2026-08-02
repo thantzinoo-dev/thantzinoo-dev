@@ -81,25 +81,25 @@ I enjoy learning by building real projects, fixing issues, and improving step by
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Thant Zin Oo GitHub profile details" />
+  <img width="700" src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Thant Zin Oo GitHub profile details" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages in commits" />
+  <img width="340" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositories per language" />
+  <img width="340" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most used languages in commits" />
 </p>
 
 <p align="center">
-  <img width="49%" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
-  <img width="49%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive coding time" />
+  <img width="340" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub statistics" />
+  <img width="340" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive coding time" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://streak-stats.demolab.com?user=thantzinoo-dev&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+  <img width="495" src="https://streak-stats.demolab.com?user=thantzinoo-dev&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thantzinoo-dev&theme=tokyo-night&hide_border=true&area=true&radius=12&days=31&custom_title=Thant%20Zin%20Oo%27s%2031-Day%20Contribution%20Graph" alt="31-day GitHub activity graph" />
+  <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=thantzinoo-dev&theme=tokyo-night&hide_border=true&area=true&radius=12&days=31&custom_title=Thant%20Zin%20Oo%27s%2031-Day%20Contribution%20Graph" alt="31-day GitHub activity graph" />
 </p>
 
 <p align="center"><sub>The five summary cards are generated as local SVG files by GitHub Actions and refreshed daily. Public statistics are shown unless a private-access token is configured.</sub></p>
