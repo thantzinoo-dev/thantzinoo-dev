@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thant Zin Oo</h1>
-<h3 align="center">Aspring Full-stack Web Development | Flutter Developer | Data Enthusiast</h3>
+<h3 align="center">Aspiring Full-stack Web Developer | Flutter Developer | Data Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/thantzinoo-dev">
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-I am currently working as a **Application Support Specialist** in the IT Department at **Alliance Microfinance for Myanmar**.
+I am currently working as an **Application Support Specialist** in the IT Department at **Alliance Microfinance for Myanmar**.
 
 My career direction is to grow from application support into a strong **Software Developer** and **Data Analyst**.
 
@@ -78,11 +78,31 @@ I enjoy learning by building real projects, fixing issues, and improving step by
 
 ---
 
-### 📊 GitHub Snapshot
+### 📈 GitHub Analytics
 
-I build and practice across **Flutter mobile apps**, **React / Next.js web apps**, **JavaScript projects**, **backend fundamentals**, and **data-analysis learning**.
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thantzinoo-dev&theme=tokyonight&animation=load&duration=2.5" alt="Thant Zin Oo GitHub profile details" />
+</p>
 
-Instead of using third-party GitHub stats images, this profile keeps the stats section text-based so the README does not show broken image placeholders when external services are down or rate-limited.
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thantzinoo-dev&theme=tokyonight&animation=stagger&duration=2.5" alt="Repositories per language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thantzinoo-dev&theme=tokyonight&animation=stagger&duration=2.5" alt="Most used languages in commits" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thantzinoo-dev&theme=tokyonight&animation=load&duration=2.5" alt="GitHub statistics" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thantzinoo-dev&theme=tokyonight&utcOffset=6.5&animation=load&duration=2.5" alt="Productive coding time" />
+</p>
+
+<p align="center">
+  <img width="80%" src="https://streak-stats.demolab.com?user=thantzinoo-dev&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=thantzinoo-dev&theme=tokyo-night&hide_border=true&area=true&radius=12&days=31&custom_title=Thant%20Zin%20Oo%27s%2031-Day%20Contribution%20Graph" alt="31-day GitHub activity graph" />
+</p>
+
+<p align="center"><sub>Public cards show public GitHub activity. Private-repository statistics require a self-hosted service or a token-backed GitHub Actions workflow.</sub></p>
 
 ---
 
