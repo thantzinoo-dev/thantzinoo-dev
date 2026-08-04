@@ -208,10 +208,6 @@ I build full-stack web apps, Flutter mobile apps, backend APIs, analytics, and w
   <img width="400" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Most productive time" />
 </p>
 
-<p align="center">
-  <img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=thantzinoo-dev&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak statistics" />
-</p>
-
 <p align="center"><sub>Public statistics only — most production and client work lives in private repositories.</sub></p>
 
 ---
